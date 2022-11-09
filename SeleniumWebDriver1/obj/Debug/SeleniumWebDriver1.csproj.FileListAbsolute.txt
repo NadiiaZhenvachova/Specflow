@@ -1,0 +1,15 @@
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/selenium-manager/linux/selenium-manager
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/selenium-manager/macos/selenium-manager
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/selenium-manager/windows/selenium-manager.exe
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/SeleniumWebDriver1.dll.config
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/SeleniumWebDriver1.dll
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/SeleniumWebDriver1.pdb
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/nunit.framework.dll
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/WebDriver.dll
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/WebDriver.Support.dll
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/bin/Debug/nunit.framework.xml
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/obj/Debug/SeleniumWebDriver1.csproj.AssemblyReference.cache
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/obj/Debug/SeleniumWebDriver1.csproj.CoreCompileInputs.cache
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/obj/Debug/SeleniumWebDriver1.csproj.CopyComplete
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/obj/Debug/SeleniumWebDriver1.dll
+/Users/nadiiakozlovska/Desktop/AQA/SeleniumWebDriver1/SeleniumWebDriver1/obj/Debug/SeleniumWebDriver1.pdb
